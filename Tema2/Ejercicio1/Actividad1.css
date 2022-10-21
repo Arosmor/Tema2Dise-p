@@ -1,0 +1,23 @@
+h1 {
+    color: #2427F4;
+    text-align: center;
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 150px; /*Fijo*/
+  }
+
+ h2 {
+    color: #2427F4;
+    text-align: center;
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 75%; /*Relativo*/
+  }
+
+  h3 {
+    color: #2427F4;
+    text-align: center;
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 5em; /*Elastico*/
+  }
